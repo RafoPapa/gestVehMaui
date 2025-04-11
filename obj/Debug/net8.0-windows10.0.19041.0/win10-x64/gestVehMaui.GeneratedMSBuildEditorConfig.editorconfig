@@ -40,17 +40,53 @@ build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/ConfiguracionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.ConfiguracionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ConfiguracionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ConfiguracionPage.xaml
+
+[D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/ContenidoPrincipalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.ContenidoPrincipalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ContenidoPrincipalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ContenidoPrincipalPage.xaml
+
 [D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
 
+[D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/MenuLateralPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.MenuLateralPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MenuLateralPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MenuLateralPage.xaml
+
 [D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/MenuPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.MenuPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\MenuPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\MenuPage.xaml
+
+[D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/RegistrarNuevoUser.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.RegistrarNuevoUser.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RegistrarNuevoUser.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RegistrarNuevoUser.xaml
+
+[D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/ReportesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.ReportesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ReportesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ReportesPage.xaml
+
+[D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Pages/VehiculosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = gestVehMaui.Pages.VehiculosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\VehiculosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\VehiculosPage.xaml
 
 [D:/INGENIERIA/2025/6to/gestVehMaui/gestVehMaui/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

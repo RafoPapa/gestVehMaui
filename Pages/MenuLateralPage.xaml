@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gestVehMaui.Pages.MenuLateralPage"
+             Title="Menu Principal">
+    <VerticalStackLayout>
+
+        <VerticalStackLayout Padding="5"
+                             Spacing="12">
+            
+            <HorizontalStackLayout>
+                <ImageButton  Clicked="OnConfiguracionClicked"
+                              Source="config.png"
+                              HeightRequest="58"
+                              WidthRequest="58"/>
+                
+                <Label Text="Configuracion"
+                       Margin="15"
+                       FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout>
+                <ImageButton  Clicked="OnVehiculosClicked"
+                   Source="carro.jpg"
+                   HeightRequest="58"
+                   WidthRequest="58"/>
+                <Label Text="Consulta de placa"
+                       Margin="15"
+                       FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout>
+                <ImageButton  Clicked="OnVehiculosClicked"
+                                Source="nuevoveh.jpg"
+                                HeightRequest="58"
+                                 WidthRequest="58"/>
+                <Label Text="Nuevo vehiculo"
+                       Margin="15"
+                       FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout>
+                <ImageButton  Clicked="OnVehiculosClicked"
+                     Source="rpt.png"
+                     HeightRequest="58"
+                      WidthRequest="58"/>
+                <Label Text="Reportes"
+                       Margin="15"
+                       FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+        <VerticalStackLayout Margin="0,390,0,0"
+                             HorizontalOptions="Center"
+                             VerticalOptions="Center">
+            
+            <Label Text="Desarrollo FrontEnd y Backend"
+                   FontAttributes="Italic"
+                   TextColor="Gray"/>
+            <Label Text="Inst. Senati  Rafael Quevedo"
+                   FontAttributes="Italic"
+                   TextColor="Gray"/>
+        </VerticalStackLayout>
+    </VerticalStackLayout>
+    
+</ContentPage>

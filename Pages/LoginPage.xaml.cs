@@ -52,7 +52,10 @@ public partial class LoginPage : ContentPage
                 {
                     messageLabel.Text = "Inicio de sesión autorizada";
                     pgbEspera.IsVisible = false;
-                    Application.Current.MainPage = new NavigationPage(new MenuPage());
+                    //Application.Current.MainPage = new NavigationPage(new MenuPage(credencialesUsuario.NombreUser));
+
+                    // Llamar a MenuPage directamente
+                    Application.Current.MainPage = new MenuPage();
                 }
                 else
                 {
@@ -78,8 +81,8 @@ public partial class LoginPage : ContentPage
         PasswordEntry.IsPassword = true;
     }
 
-    private void RegistrarUser(object sender, EventArgs e)
+    private async void RegistrarUser(object sender, EventArgs e)
     {
-
+        await Navigation.PushModalAsync(new RegistrarNuevoUser());
     }
 }

@@ -14,6 +14,9 @@
           "Microsoft.Maui.Controls.Compatibility": "8.0.100",
           "Newtonsoft.Json": "13.0.3",
           "Syncfusion.Maui.ProgressBar": "29.1.35",
+          "Microsoft.Maui.Controls.HotReload.Forms": "17.0.0.0",
+          "Microsoft.VisualStudio.DesignTools.MobileTapContracts": "17.0.0.0",
+          "Microsoft.VisualStudio.DesignTools.TapContract": "17.0.0.0",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.57"
         },
         "runtime": {
@@ -484,6 +487,30 @@
             "fileVersion": "29.1.35.0"
           }
         }
+      },
+      "Microsoft.Maui.Controls.HotReload.Forms/17.0.0.0": {
+        "runtime": {
+          "Microsoft.Maui.Controls.HotReload.Forms.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.13.39978.13290"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.DesignTools.MobileTapContracts/17.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.13.39978.13290"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.DesignTools.TapContract/17.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.DesignTools.TapContract.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.13.39978.13290"
+          }
+        }
       }
     }
   },
@@ -686,6 +713,21 @@
       "sha512": "sha512-Zo1vfWW21fIbZuR8PAWiBezll9j56tB8NNysfu5hHxWdnHLhkIRZGmExtnmbDBbghKeveo88lq8AdKqd6go5Zw==",
       "path": "syncfusion.maui.progressbar/29.1.35",
       "hashPath": "syncfusion.maui.progressbar.29.1.35.nupkg.sha512"
+    },
+    "Microsoft.Maui.Controls.HotReload.Forms/17.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.DesignTools.MobileTapContracts/17.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.DesignTools.TapContract/17.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

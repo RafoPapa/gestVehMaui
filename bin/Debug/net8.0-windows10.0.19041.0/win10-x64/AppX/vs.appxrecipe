@@ -29,13 +29,13 @@
     <AppXManifest Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-11T14:08:40.209</Modified>
+      <Modified>2025-04-11T16:13:09.037</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-04-11T14:08:39.771</Modified>
+      <Modified>2025-04-11T14:34:19.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\gestVehMaui.runtimeconfig.json">
       <PackagePath>gestVehMaui.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\gestVehMaui.dll">
       <PackagePath>gestVehMaui.dll</PackagePath>
-      <Modified>2025-04-11T14:08:37.959</Modified>
+      <Modified>2025-04-11T16:13:08.758</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>gestVehMaui.exe</PackagePath>
-      <Modified>2025-04-11T14:08:38.037</Modified>
+      <Modified>2025-04-11T16:13:08.761</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -299,7 +299,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\INGENIERIA\2025\6to\gestVehMaui\gestVehMaui\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\gestVehMaui.deps.json">
       <PackagePath>gestVehMaui.deps.json</PackagePath>
-      <Modified>2025-04-11T14:08:39.459</Modified>
+      <Modified>2025-04-11T14:34:18.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\admin\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

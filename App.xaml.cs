@@ -11,6 +11,8 @@ namespace gestVehMaui
             MainPage = new NavigationPage(new LoginPage()) ;
         }
 
+        public static object Navigate { get; internal set; }
+
         protected override void OnResume()
         {
             base.OnResume();

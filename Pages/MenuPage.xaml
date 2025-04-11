@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="gestVehMaui.Pages.MenuPage"
-             Title="MenuPage">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
-</ContentPage>
+<FlyoutPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:pages="clr-namespace:gestVehMaui.Pages"
+            x:Class="gestVehMaui.Pages.MenuPage"
+            FlyoutLayoutBehavior="Default">
+
+    <FlyoutPage.Flyout>
+        <pages:MenuLateralPage />
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail>
+        <NavigationPage x:Name="Navigate">
+            <x:Arguments>
+                <pages:ContenidoPrincipalPage />
+            </x:Arguments>
+        </NavigationPage>
+    </FlyoutPage.Detail>
+
+</FlyoutPage>
