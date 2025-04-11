@@ -10,7 +10,7 @@
     </FlyoutPage.Flyout>
 
     <FlyoutPage.Detail>
-        <NavigationPage x:Name="Navigate">
+        <NavigationPage >
             <x:Arguments>
                 <pages:ContenidoPrincipalPage />
             </x:Arguments>

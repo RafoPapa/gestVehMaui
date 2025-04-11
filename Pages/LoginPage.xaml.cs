@@ -54,6 +54,9 @@ public partial class LoginPage : ContentPage
                     pgbEspera.IsVisible = false;
                     //Application.Current.MainPage = new NavigationPage(new MenuPage(credencialesUsuario.NombreUser));
 
+                    Preferences.Set("NombreUsuario", credencialesUsuario.NombreUser);
+                    Preferences.Set("EmailUsuario", credencialesUsuario.Email);
+
                     // Llamar a MenuPage directamente
                     Application.Current.MainPage = new MenuPage();
                 }

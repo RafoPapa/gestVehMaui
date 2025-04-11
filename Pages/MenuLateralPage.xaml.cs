@@ -5,23 +5,23 @@ public partial class MenuLateralPage : ContentPage
 	public MenuLateralPage()
 	{
 		InitializeComponent();
+        string nombreUsuario = Preferences.Get("NombreUsuario", string.Empty);
+        string emailUsuario = Preferences.Get("EmailUsuario", string.Empty);
+
+        lblNombreUser.Text= nombreUsuario;
+        lblEmailUser.Text= emailUsuario;
 	}
 
     private async void OnConfiguracionClicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new ConfiguracionPage());
-        ((FlyoutPage)Parent.Parent).IsPresented = false;
+        var navigationPage = ((FlyoutPage)Parent.Parent).Detail as NavigationPage;
+
+        if (navigationPage != null)
+        {
+            await navigationPage.PushAsync(new ConfiguracionPage());
+            ((FlyoutPage)Parent.Parent).IsPresented = false;
+        }
     }
 
-    private async void OnVehiculosClicked(object sender, EventArgs e)
-    {
-        await Navigation.PushAsync(new VehiculosPage());
-        ((FlyoutPage)Parent.Parent).IsPresented = false;
-    }
-
-    private async void OnReportesClicked(object sender, EventArgs e)
-    {
-        await Navigation.PushAsync(new ReportesPage());
-        ((FlyoutPage)Parent.Parent).IsPresented = false;
-    }
+   
 }

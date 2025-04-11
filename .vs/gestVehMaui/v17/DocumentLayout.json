@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\",
+  "WorkspaceRootPath": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|d:\\ingenieria\\2025\\6to\\gestvehmaui\\gestvehmaui\\pages\\menulateralpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\menulateralpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|d:\\ingenieria\\2025\\6to\\gestvehmaui\\gestvehmaui\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|d:\\ingenieria\\2025\\6to\\gestvehmaui\\gestvehmaui\\pages\\menulateralpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\pages\\menulateralpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\menulateralpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|d:\\ingenieria\\2025\\6to\\gestvehmaui\\gestvehmaui\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|d:\\ingenieria\\2025\\6to\\gestvehmaui\\gestvehmaui\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\pages\\menulateralpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\menulateralpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|c:\\rafael\\repositorios\\gestvehmaui\\gestvehmaui\\pages\\contenidoprincipalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\contenidoprincipalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "ContenidoPrincipalPage.xaml",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\ContenidoPrincipalPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ContenidoPrincipalPage.xaml",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\ContenidoPrincipalPage.xaml",
+              "RelativeToolTip": "Pages\\ContenidoPrincipalPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T21:09:03.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:24:40.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\LoginPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
-              "ToolTip": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\LoginPage.xaml.cs",
               "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAASwDgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwDkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T17:56:10.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuPage.xaml.cs",
-              "DocumentMoniker": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\MenuPage.xaml.cs",
-              "ToolTip": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml.cs",
               "RelativeToolTip": "Pages\\MenuPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T17:51:43.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MenuPage.xaml",
-              "DocumentMoniker": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml",
               "RelativeDocumentMoniker": "Pages\\MenuPage.xaml",
-              "ToolTip": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuPage.xaml",
               "RelativeToolTip": "Pages\\MenuPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-11T17:50:27.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MenuLateralPage.xaml.cs",
-              "DocumentMoniker": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml.cs",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml.cs",
               "RelativeDocumentMoniker": "Pages\\MenuLateralPage.xaml.cs",
-              "ToolTip": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml.cs",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml.cs",
               "RelativeToolTip": "Pages\\MenuLateralPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T17:40:24.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MenuLateralPage.xaml",
-              "DocumentMoniker": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml",
+              "DocumentMoniker": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml",
               "RelativeDocumentMoniker": "Pages\\MenuLateralPage.xaml",
-              "ToolTip": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml",
+              "ToolTip": "C:\\rafael\\Repositorios\\gestVehMaui\\gestVehMaui\\Pages\\MenuLateralPage.xaml",
               "RelativeToolTip": "Pages\\MenuLateralPage.xaml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwC4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-11T17:23:10.051Z",
               "EditorCaption": ""

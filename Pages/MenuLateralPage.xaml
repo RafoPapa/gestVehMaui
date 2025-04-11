@@ -3,64 +3,111 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="gestVehMaui.Pages.MenuLateralPage"
              Title="Menu Principal">
+    <ScrollView>
+        
+    
     <VerticalStackLayout>
 
-        <VerticalStackLayout Padding="5"
-                             Spacing="12">
-            
-            <HorizontalStackLayout>
-                <ImageButton  Clicked="OnConfiguracionClicked"
-                              Source="config.png"
-                              HeightRequest="58"
-                              WidthRequest="58"/>
-                
-                <Label Text="Configuracion"
-                       Margin="15"
-                       FontAttributes="Bold"/>
-            </HorizontalStackLayout>
+        <VerticalStackLayout Padding="5">
 
             <HorizontalStackLayout>
-                <ImageButton  Clicked="OnVehiculosClicked"
-                   Source="carro.jpg"
-                   HeightRequest="58"
-                   WidthRequest="58"/>
-                <Label Text="Consulta de placa"
-                       Margin="15"
-                       FontAttributes="Bold"/>
-            </HorizontalStackLayout>
+                <ImageButton 
+                  Source="user.png"
+                  HeightRequest="58"
+                  WidthRequest="58"/>
 
-            <HorizontalStackLayout>
-                <ImageButton  Clicked="OnVehiculosClicked"
-                                Source="nuevoveh.jpg"
+                <VerticalStackLayout >
+                    <Label Text="Usuario"
+                           Margin="5,4,5,0"
+                           FontAttributes="Bold"
+                           x:Name="lblNombreUser"
+                           TextColor="Gray"/>
+
+                    <Label Text="Usuario"
+                           Margin="5,0,5,0"
+                           FontAttributes="Bold"
+                           x:Name="lblEmailUser"
+                           TextColor="Gray"/>
+
+
+
+                </VerticalStackLayout>
+
+            </HorizontalStackLayout>
+            <Label Text="________________________________"
+                    Margin="5,0,5,0"
+                     FontAttributes="Bold"
+                     TextColor="Gray"/>
+
+            <VerticalStackLayout Margin="0,25" Spacing="25">
+                <HorizontalStackLayout >
+                    <ImageButton  Clicked="OnConfiguracionClicked"
+                      Source="config.png"
+                      HeightRequest="58"
+                      WidthRequest="58"/>
+
+                    <Label Text="Configuracion"
+               Margin="15"
+               FontAttributes="Bold"/>
+                </HorizontalStackLayout>
+
+                <HorizontalStackLayout>
+                    <ImageButton 
+           Source="carro.jpg"
+           HeightRequest="58"
+           WidthRequest="58"/>
+                    <Label Text="Consulta de placa"
+               Margin="15"
+               FontAttributes="Bold"/>
+                </HorizontalStackLayout>
+
+                <HorizontalStackLayout>
+                    <ImageButton  
+                        Source="nuevoveh.jpg"
+                        HeightRequest="58"
+                         WidthRequest="58"/>
+                    <Label Text="Nuevo vehiculo"
+               Margin="15"
+               FontAttributes="Bold"/>
+                </HorizontalStackLayout>
+
+                <HorizontalStackLayout>
+                    <ImageButton  
+                         Source="rpt.png"
+                         HeightRequest="58"
+                         WidthRequest="58"/>
+                    <Label Text="Reportes"
+                             Margin="15"
+                            FontAttributes="Bold"/>
+                </HorizontalStackLayout>
+
+
+                <HorizontalStackLayout>
+                    <ImageButton  
+                                Source="salir.png"
                                 HeightRequest="58"
                                  WidthRequest="58"/>
-                <Label Text="Nuevo vehiculo"
-                       Margin="15"
-                       FontAttributes="Bold"/>
-            </HorizontalStackLayout>
+                    <Label Text="Cerrar sesión"
+                            Margin="15"
+                             FontAttributes="Bold"/>
+                </HorizontalStackLayout>
 
-            <HorizontalStackLayout>
-                <ImageButton  Clicked="OnVehiculosClicked"
-                     Source="rpt.png"
-                     HeightRequest="58"
-                      WidthRequest="58"/>
-                <Label Text="Reportes"
-                       Margin="15"
-                       FontAttributes="Bold"/>
-            </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Margin="0,150,0,0"
+                     HorizontalOptions="Center"
+                     VerticalOptions="Center">
+
+                <Label Text="Desarrollo FrontEnd y Backend"
+           FontAttributes="Italic"
+           TextColor="Gray"/>
+                <Label Text="Inst. Senati  Rafael Quevedo"
+           FontAttributes="Italic"
+           TextColor="Gray"/>
+            </VerticalStackLayout>
 
         </VerticalStackLayout>
-        <VerticalStackLayout Margin="0,390,0,0"
-                             HorizontalOptions="Center"
-                             VerticalOptions="Center">
-            
-            <Label Text="Desarrollo FrontEnd y Backend"
-                   FontAttributes="Italic"
-                   TextColor="Gray"/>
-            <Label Text="Inst. Senati  Rafael Quevedo"
-                   FontAttributes="Italic"
-                   TextColor="Gray"/>
-        </VerticalStackLayout>
+
     </VerticalStackLayout>
-    
+    </ScrollView>
 </ContentPage>
