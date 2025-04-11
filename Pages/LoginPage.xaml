@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gestVehMaui.Pages.LoginPage"
+             xmlns:progressBar="clr-namespace:Syncfusion.Maui.ProgressBar;assembly=Syncfusion.Maui.ProgressBar"
+             Title="Ingreso de credenciales">
+
+
+    <ScrollView>
+        <VerticalStackLayout Padding="15" Spacing="25">
+
+            <Label Text="Acceso al sistema"
+            FontSize="Title"
+            HorizontalTextAlignment="Center"
+            FontAttributes="Bold"/>
+
+            <Image Source="seguridad.png"
+            WidthRequest="180"/>
+
+            <Entry Placeholder="Email"
+            Keyboard="Email"
+            x:Name="EmailEntry"/>
+
+            <HorizontalStackLayout>
+
+                <Entry Placeholder="Password"
+            Keyboard="Text"
+            IsPassword="True"
+            x:Name="PasswordEntry"
+            WidthRequest="250"/>
+
+                <ImageButton Source="eyeopen.png"
+                      WidthRequest="40"
+                      HeightRequest="60"
+                      Pressed="MostrarContraasena"
+                      Released="OcultarContrasena"/>
+
+
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout HorizontalOptions="Center">
+                 <Button Text="Ingresar"
+                 
+                    Clicked="ValidarIngresoUser"
+                         Margin="10"
+                         WidthRequest="100"
+                         HorizontalOptions="Start"/>
+
+                <Button Text="Registrar"
+                    
+                    Clicked="RegistrarUser"
+                        Margin="10"
+                        WidthRequest="100"
+                        HorizontalOptions="End"/>
+                
+            </HorizontalStackLayout>
+                   
+
+                    <Label x:Name="messageLabel"
+                    HorizontalOptions="Center"
+                    HorizontalTextAlignment="Center"
+                    TextColor="Gray"
+                    />
+                    <progressBar:SfCircularProgressBar 
+                         IsIndeterminate="True"
+                         x:Name="pgbEspera"
+                         IsVisible="False"
+                         WidthRequest="50"
+                         HeightRequest="50" />  
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

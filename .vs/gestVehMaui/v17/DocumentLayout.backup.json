@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|d:\\ingenieria\\2025\\6to\\gestvehmaui\\gestvehmaui\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43E939D5-07CC-4668-8467-8990CFA99F21}|gestVehMaui.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "D:\\INGENIERIA\\2025\\6to\\gestVehMaui\\gestVehMaui\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-11T14:11:03.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
