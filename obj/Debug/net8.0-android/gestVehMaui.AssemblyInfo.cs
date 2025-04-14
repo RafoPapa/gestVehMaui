@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestVehMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d6eb2ef82c43c82639ba884d09279565760bc8d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0e8142c581c3e33d768b8686f9e8c78c1de061f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestVehMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestVehMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
